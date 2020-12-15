@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "159546709561",
+    "firebase_url": "https://appdown-chat.firebaseio.com",
+    "project_id": "appdown-chat",
+    "storage_bucket": "appdown-chat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:159546709561:android:2b50adb742ad4f41315fe8",
+        "android_client_info": {
+          "package_name": "com.example.AppDown"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "159546709561-549csdc3n59phq5lbr6bno3pq2ar9e2r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBytywWufktZ-h2_XwRBrgKu9ux0gW-y8k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "159546709561-549csdc3n59phq5lbr6bno3pq2ar9e2r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
