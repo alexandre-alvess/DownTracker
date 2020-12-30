@@ -1,9 +1,9 @@
-import 'package:AppDown/Providers/MapsZonesProvider.dart';
-import 'package:AppDown/Shared/Models/LocationZoneModel.dart';
-import 'package:AppDown/Shared/Services/NavigatorService.dart';
-import 'package:AppDown/Shared/Services/SessionService.dart';
-import 'package:AppDown/Shared/Utils/EnumValidates.dart';
-import 'package:AppDown/Shared/Widgets/LocationInput.dart';
+import 'package:DownTracker/Providers/MapsZonesProvider.dart';
+import 'package:DownTracker/Shared/Models/LocationZoneModel.dart';
+import 'package:DownTracker/Shared/Services/NavigatorService.dart';
+import 'package:DownTracker/Shared/Services/SessionService.dart';
+import 'package:DownTracker/Shared/Utils/EnumValidates.dart';
+import 'package:DownTracker/Shared/Widgets/LocationInput.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:get_it/get_it.dart';

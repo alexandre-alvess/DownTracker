@@ -1,19 +1,19 @@
 
-import 'package:AppDown/Modules/ChatScreens/ChatScreen.dart';
-import 'package:AppDown/Modules/LoginScreen.dart';
-import 'package:AppDown/Modules/QuestionScreens/QuestionFormScreen.dart';
-import 'package:AppDown/Modules/QuestionScreens/QuestionListScreen.dart';
-import 'package:AppDown/Modules/QuizScreens/QuizListScreen.dart';
-import 'package:AppDown/Modules/QuizScreens/QuizScreen.dart';
-import 'package:AppDown/Modules/UserScreen.dart';
-import 'package:AppDown/Modules/ZonesScreens/ConfigureMapsScreen.dart';
-import 'package:AppDown/Modules/HomeScreen.dart';
-import 'package:AppDown/Modules/LocationScreen.dart';
-import 'package:AppDown/Modules/MenuScreens/MenuScreen.dart';
-import 'package:AppDown/Modules/ZonesScreens/ZonesFormScreen.dart';
-import 'package:AppDown/Modules/ZonesScreens/ZonesListScreen.dart';
-import 'package:AppDown/Shared/Widgets/AuthScreen.dart';
-import 'package:AppDown/Shared/Widgets/SplashScreenApp.dart';
+import 'package:DownTracker/Modules/ChatScreens/ChatScreen.dart';
+import 'package:DownTracker/Modules/LoginScreen.dart';
+import 'package:DownTracker/Modules/QuestionScreens/QuestionFormScreen.dart';
+import 'package:DownTracker/Modules/QuestionScreens/QuestionListScreen.dart';
+import 'package:DownTracker/Modules/QuizScreens/QuizListScreen.dart';
+import 'package:DownTracker/Modules/QuizScreens/QuizScreen.dart';
+import 'package:DownTracker/Modules/UserScreen.dart';
+import 'package:DownTracker/Modules/ZonesScreens/ConfigureMapsScreen.dart';
+import 'package:DownTracker/Modules/HomeScreen.dart';
+import 'package:DownTracker/Modules/LocationScreen.dart';
+import 'package:DownTracker/Modules/MenuScreens/MenuScreen.dart';
+import 'package:DownTracker/Modules/ZonesScreens/ZonesFormScreen.dart';
+import 'package:DownTracker/Modules/ZonesScreens/ZonesListScreen.dart';
+import 'package:DownTracker/Shared/Widgets/AuthScreen.dart';
+import 'package:DownTracker/Shared/Widgets/SplashScreenApp.dart';
 import 'package:flutter/material.dart';
 
 class AppRoutes {

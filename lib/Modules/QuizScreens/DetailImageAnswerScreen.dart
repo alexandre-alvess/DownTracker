@@ -1,4 +1,4 @@
-import 'package:AppDown/Shared/Services/CognitiveEmotionService.dart';
+import 'package:DownTracker/Shared/Services/CognitiveEmotionService.dart';
 import 'package:flutter/material.dart';
 
 class DetailImageAnswerScreen extends StatefulWidget 
@@ -16,12 +16,13 @@ class _DetailImageAnswerScreenState extends State<DetailImageAnswerScreen>
   bool _isLoading = true;
   String _resultProcessed = 'SEM CLASSIFICAÇÃO DE EMOÇÃO';
 
-  Future<void> _processImageRecognition()
+  Future<void> _processImageRecognition() async
   {
     CognitiveEmotionService service = new CognitiveEmotionService();
-    
+    var result = await service.getEmotion(widget.imageUrl);
+
 	setState(() {
-		_resultProcessed = service.getEmotion(widget.imageUrl);
+		_resultProcessed = result;
 	});
     
 

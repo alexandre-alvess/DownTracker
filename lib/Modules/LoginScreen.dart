@@ -1,5 +1,5 @@
 import 'dart:math';
-import 'package:AppDown/Shared/Widgets/LoginCard.dart';
+import 'package:DownTracker/Shared/Widgets/LoginCard.dart';
 import 'package:flutter/material.dart';
 
 class LoginScreen extends StatelessWidget {

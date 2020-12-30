@@ -1,6 +1,6 @@
-import 'package:AppDown/Modules/QuizScreens/DetailImageAnswerScreen.dart';
-import 'package:AppDown/Shared/Models/AnswerModel.dart';
-import 'package:AppDown/Shared/Services/NavigatorService.dart';
+import 'package:DownTracker/Modules/QuizScreens/DetailImageAnswerScreen.dart';
+import 'package:DownTracker/Shared/Models/AnswerModel.dart';
+import 'package:DownTracker/Shared/Services/NavigatorService.dart';
 import 'package:flutter/material.dart';
 import 'package:get_it/get_it.dart';
 import 'package:intl/intl.dart';

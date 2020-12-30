@@ -1,7 +1,7 @@
-import 'package:AppDown/DataAccess/LocationZoneDAO.dart';
-import 'package:AppDown/Shared/Models/LocationZoneModel.dart';
-import 'package:AppDown/Shared/Services/LocationBackgroundService.dart';
-import 'package:AppDown/Shared/Services/SessionService.dart';
+import 'package:DownTracker/DataAccess/LocationZoneDAO.dart';
+import 'package:DownTracker/Shared/Models/LocationZoneModel.dart';
+import 'package:DownTracker/Shared/Services/LocationBackgroundService.dart';
+import 'package:DownTracker/Shared/Services/SessionService.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:google_maps_flutter/google_maps_flutter.dart';

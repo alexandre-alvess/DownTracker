@@ -1,14 +1,14 @@
 import 'dart:convert';
 
-import 'package:AppDown/Providers/AnswerProvider.dart';
-import 'package:AppDown/Providers/AuthProvider.dart';
-import 'package:AppDown/Providers/MapsZonesProvider.dart';
-import 'package:AppDown/Providers/QuestionProvider.dart';
-import 'package:AppDown/Providers/UserProvider.dart';
-import 'package:AppDown/Routes.dart';
-import 'package:AppDown/Shared/Services/LocationBackgroundService.dart';
-import 'package:AppDown/Shared/Services/NavigatorService.dart';
-import 'package:AppDown/Shared/Services/SessionService.dart';
+import 'package:DownTracker/Providers/AnswerProvider.dart';
+import 'package:DownTracker/Providers/AuthProvider.dart';
+import 'package:DownTracker/Providers/MapsZonesProvider.dart';
+import 'package:DownTracker/Providers/QuestionProvider.dart';
+import 'package:DownTracker/Providers/UserProvider.dart';
+import 'package:DownTracker/Routes.dart';
+import 'package:DownTracker/Shared/Services/LocationBackgroundService.dart';
+import 'package:DownTracker/Shared/Services/NavigatorService.dart';
+import 'package:DownTracker/Shared/Services/SessionService.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';

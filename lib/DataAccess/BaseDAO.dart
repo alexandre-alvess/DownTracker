@@ -1,4 +1,4 @@
-import 'package:AppDown/DataAccess/DbUtils.dart';
+import 'package:DownTracker/DataAccess/DbUtils.dart';
 import 'package:sqflite/sqflite.dart';
 
 abstract class BaseDAO<T>

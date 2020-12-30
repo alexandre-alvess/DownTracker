@@ -1,7 +1,7 @@
-import 'package:AppDown/Modules/HomeScreen.dart';
-import 'package:AppDown/Modules/LoginScreen.dart';
-import 'package:AppDown/Providers/AuthProvider.dart';
-import 'package:AppDown/Shared/Services/NavigatorService.dart';
+import 'package:DownTracker/Modules/HomeScreen.dart';
+import 'package:DownTracker/Modules/LoginScreen.dart';
+import 'package:DownTracker/Providers/AuthProvider.dart';
+import 'package:DownTracker/Shared/Services/NavigatorService.dart';
 import 'package:flutter/material.dart';
 import 'package:get_it/get_it.dart';
 import 'package:provider/provider.dart';

@@ -1,4 +1,4 @@
-name: AppDown
+name: DownTracker
 description: A new Flutter project.
 
 # The following line prevents the package from being accidentally published to
@@ -48,6 +48,7 @@ dependencies:
   permission_handler: ^4.4.0+hotfix.2
   great_circle_distance2: ^1.0.1+1
   path_provider: ^1.6.24
+  clipboard: ^0.1.2+8
 
 dev_dependencies:
   flutter_test:
@@ -70,6 +71,8 @@ flutter:
     - assets/splash/intro.flr
     - assets/images/bg.png
     - assets/sql/
+    - assets/images/feliz.jpg
+    - assets/images/triste.jpg
   
 
   # An image asset can refer to one or more resolution-specific "variants", see

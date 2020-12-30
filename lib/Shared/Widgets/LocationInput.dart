@@ -1,5 +1,5 @@
-import 'package:AppDown/Modules/ZonesScreens/ConfigureMapsScreen.dart';
-import 'package:AppDown/Shared/Services/NavigatorService.dart';
+import 'package:DownTracker/Modules/ZonesScreens/ConfigureMapsScreen.dart';
+import 'package:DownTracker/Shared/Services/NavigatorService.dart';
 import 'package:flutter/material.dart';
 import 'package:get_it/get_it.dart';
 import 'package:google_maps_flutter/google_maps_flutter.dart';

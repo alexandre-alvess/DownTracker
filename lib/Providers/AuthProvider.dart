@@ -1,7 +1,7 @@
 import 'dart:async';
 import 'dart:convert';
-import 'package:AppDown/Shared/Services/SessionService.dart';
-import 'package:AppDown/Shared/Utils/AuthException.dart';
+import 'package:DownTracker/Shared/Services/SessionService.dart';
+import 'package:DownTracker/Shared/Utils/AuthException.dart';
 import 'package:flutter/material.dart';
 import 'package:http/http.dart' as http;
 

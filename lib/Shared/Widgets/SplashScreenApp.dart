@@ -1,7 +1,7 @@
 import 'dart:async';
 import 'dart:math';
-import 'package:AppDown/DataAccess/DbUtils.dart';
-import 'package:AppDown/Shared/Services/NavigatorService.dart';
+import 'package:DownTracker/DataAccess/DbUtils.dart';
+import 'package:DownTracker/Shared/Services/NavigatorService.dart';
 import 'package:flutter/material.dart';
 import 'package:get_it/get_it.dart';
 import 'package:shimmer/shimmer.dart';

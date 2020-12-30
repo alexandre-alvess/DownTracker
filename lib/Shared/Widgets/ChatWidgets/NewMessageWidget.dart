@@ -1,4 +1,4 @@
-import 'package:AppDown/Providers/AuthProvider.dart';
+import 'package:DownTracker/Providers/AuthProvider.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';

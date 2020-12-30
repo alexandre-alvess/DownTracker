@@ -1,5 +1,5 @@
-import 'package:AppDown/Shared/Widgets/ChatWidgets/MessagesWidget.dart';
-import 'package:AppDown/Shared/Widgets/ChatWidgets/NewMessageWidget.dart';
+import 'package:DownTracker/Shared/Widgets/ChatWidgets/MessagesWidget.dart';
+import 'package:DownTracker/Shared/Widgets/ChatWidgets/NewMessageWidget.dart';
 import 'package:firebase_messaging/firebase_messaging.dart';
 import 'package:flutter/material.dart';
 

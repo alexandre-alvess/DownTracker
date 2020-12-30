@@ -1,15 +1,15 @@
 import 'dart:io';
 import 'dart:math';
 
-import 'package:AppDown/Providers/AnswerProvider.dart';
-import 'package:AppDown/Providers/QuestionProvider.dart';
-import 'package:AppDown/Providers/UserProvider.dart';
-import 'package:AppDown/Shared/Models/AnswerModel.dart';
-import 'package:AppDown/Shared/Models/QuestionModel.dart';
-import 'package:AppDown/Shared/Services/NavigatorService.dart';
-import 'package:AppDown/Shared/Widgets/QuizWidget/AnswerImageWidget.dart';
-import 'package:AppDown/Shared/Widgets/QuizWidget/QuizWidget.dart';
-import 'package:AppDown/Shared/Widgets/QuizWidget/ResultWidget.dart';
+import 'package:DownTracker/Providers/AnswerProvider.dart';
+import 'package:DownTracker/Providers/QuestionProvider.dart';
+import 'package:DownTracker/Providers/UserProvider.dart';
+import 'package:DownTracker/Shared/Models/AnswerModel.dart';
+import 'package:DownTracker/Shared/Models/QuestionModel.dart';
+import 'package:DownTracker/Shared/Services/NavigatorService.dart';
+import 'package:DownTracker/Shared/Widgets/QuizWidget/AnswerImageWidget.dart';
+import 'package:DownTracker/Shared/Widgets/QuizWidget/QuizWidget.dart';
+import 'package:DownTracker/Shared/Widgets/QuizWidget/ResultWidget.dart';
 import 'package:firebase_storage/firebase_storage.dart';
 import 'package:flutter/material.dart';
 import 'package:get_it/get_it.dart';

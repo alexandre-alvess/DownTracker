@@ -1,6 +1,6 @@
 
-import 'package:AppDown/Shared/Services/NavigatorService.dart';
-import 'package:AppDown/Shared/Widgets/AppBar.dart';
+import 'package:DownTracker/Shared/Services/NavigatorService.dart';
+import 'package:DownTracker/Shared/Widgets/AppBar.dart';
 import 'package:flutter/material.dart';
 import 'package:get_it/get_it.dart';
 import 'package:permission_handler/permission_handler.dart';

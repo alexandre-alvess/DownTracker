@@ -1,6 +1,6 @@
 import 'dart:async';
-import 'package:AppDown/Shared/MapsLocationBase.dart';
-import 'package:AppDown/Shared/Services/LocationBackgroundService.dart';
+import 'package:DownTracker/Shared/MapsLocationBase.dart';
+import 'package:DownTracker/Shared/Services/LocationBackgroundService.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:flutter/material.dart';
 import 'package:google_maps_flutter/google_maps_flutter.dart';

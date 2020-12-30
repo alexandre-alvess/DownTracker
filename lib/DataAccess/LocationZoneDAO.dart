@@ -1,5 +1,5 @@
-import 'package:AppDown/DataAccess/BaseDAO.dart';
-import 'package:AppDown/Shared/Models/LocationZoneModel.dart';
+import 'package:DownTracker/DataAccess/BaseDAO.dart';
+import 'package:DownTracker/Shared/Models/LocationZoneModel.dart';
 import 'package:google_maps_flutter/google_maps_flutter.dart';
 import 'package:sqflite/sqflite.dart';
 

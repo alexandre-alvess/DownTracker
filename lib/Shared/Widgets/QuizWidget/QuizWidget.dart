@@ -1,6 +1,6 @@
-import 'package:AppDown/Shared/Models/AnswerModel.dart';
-import 'package:AppDown/Shared/Widgets/QuizWidget/AnswerWidget.dart';
-import 'package:AppDown/Shared/Widgets/QuizWidget/QuestionWidget.dart';
+import 'package:DownTracker/Shared/Models/AnswerModel.dart';
+import 'package:DownTracker/Shared/Widgets/QuizWidget/AnswerWidget.dart';
+import 'package:DownTracker/Shared/Widgets/QuizWidget/QuestionWidget.dart';
 import 'package:flutter/material.dart';
 
 class QuizWidget extends StatelessWidget 

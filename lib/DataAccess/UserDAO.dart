@@ -1,5 +1,5 @@
-import 'package:AppDown/DataAccess/BaseDAO.dart';
-import 'package:AppDown/Shared/Models/UserModel.dart';
+import 'package:DownTracker/DataAccess/BaseDAO.dart';
+import 'package:DownTracker/Shared/Models/UserModel.dart';
 
 class UserDAO extends BaseDAO<UserModel>
 {

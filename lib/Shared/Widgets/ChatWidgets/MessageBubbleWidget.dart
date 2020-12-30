@@ -1,5 +1,5 @@
-import 'package:AppDown/Providers/UserProvider.dart';
-import 'package:AppDown/Shared/Models/UserModel.dart';
+import 'package:DownTracker/Providers/UserProvider.dart';
+import 'package:DownTracker/Shared/Models/UserModel.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 

@@ -1,6 +1,6 @@
-import 'package:AppDown/Shared/MapsLocationBase.dart';
-import 'package:AppDown/Shared/Services/LocationService.dart';
-import 'package:AppDown/Shared/Services/NavigatorService.dart';
+import 'package:DownTracker/Shared/MapsLocationBase.dart';
+import 'package:DownTracker/Shared/Services/LocationService.dart';
+import 'package:DownTracker/Shared/Services/NavigatorService.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:get_it/get_it.dart';

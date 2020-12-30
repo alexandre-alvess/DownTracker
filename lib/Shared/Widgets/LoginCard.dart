@@ -1,8 +1,8 @@
-import 'package:AppDown/Providers/AuthProvider.dart';
-import 'package:AppDown/Providers/UserProvider.dart';
-import 'package:AppDown/Shared/Models/UserModel.dart';
-import 'package:AppDown/Shared/Services/NavigatorService.dart';
-import 'package:AppDown/Shared/Utils/AuthException.dart';
+import 'package:DownTracker/Providers/AuthProvider.dart';
+import 'package:DownTracker/Providers/UserProvider.dart';
+import 'package:DownTracker/Shared/Models/UserModel.dart';
+import 'package:DownTracker/Shared/Services/NavigatorService.dart';
+import 'package:DownTracker/Shared/Utils/AuthException.dart';
 import 'package:email_validator/email_validator.dart';
 import 'package:flutter/material.dart';
 import 'package:get_it/get_it.dart';

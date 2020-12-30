@@ -1,6 +1,6 @@
-import 'package:AppDown/Modules/ZonesScreens/ZonesFormScreen.dart';
-import 'package:AppDown/Shared/Models/LocationZoneModel.dart';
-import 'package:AppDown/Shared/Services/NavigatorService.dart';
+import 'package:DownTracker/Modules/ZonesScreens/ZonesFormScreen.dart';
+import 'package:DownTracker/Shared/Models/LocationZoneModel.dart';
+import 'package:DownTracker/Shared/Services/NavigatorService.dart';
 import 'package:flutter/material.dart';
 import 'package:get_it/get_it.dart';
 

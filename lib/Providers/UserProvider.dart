@@ -1,6 +1,6 @@
-import 'package:AppDown/DataAccess/UserDAO.dart';
-import 'package:AppDown/Shared/Models/UserModel.dart';
-import 'package:AppDown/Shared/Services/SessionService.dart';
+import 'package:DownTracker/DataAccess/UserDAO.dart';
+import 'package:DownTracker/Shared/Models/UserModel.dart';
+import 'package:DownTracker/Shared/Services/SessionService.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:flutter/widgets.dart';
 
